@@ -1,3 +1,5 @@
+THIS IS A NEW PROGRAM
+
 n=int(input("enter any number"))
 x=0
 for i in range (1,n+1):
